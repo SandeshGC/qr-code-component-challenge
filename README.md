@@ -16,12 +16,12 @@ This is a small challenge from Frontend Mentor that I did to practice HTML and C
 
 ### Screenshot
 
-![](./designs/screenshot.png)
+![](./design/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/SandeshGC/qr-code-component-challenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/SandeshGC/qr-code-component-challenge](https://github.com/SandeshGC/qr-code-component-challenge)
+- Live Site URL: [https://sandeshgc.github.io/qr-code-component-challenge/](https://sandeshgc.github.io/qr-code-component-challenge/)
 
 ### Built with
 
@@ -39,5 +39,5 @@ Right now, I don't think there's more to do for this project. But we could creat
 ## Author
 
 - Website - [Sandesh GC](https://www.gcsandesh.com.np)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/SandeshGC)
+- Frontend Mentor - [@SandeshGC](https://www.frontendmentor.io/profile/SandeshGC)
 - Twitter - [@gcsandesh01](https://www.twitter.com/gcsandesh01)
